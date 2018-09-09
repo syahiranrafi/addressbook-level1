@@ -268,6 +268,13 @@
 || 
 || 2 persons found!
 || ===================================================
+|| Enter command: || [Command entered:  first]
+|| Betsy Choo
+|| 222222
+|| benchoo@nus.edu.sg
+||
+|| First contact in address book displayed.
+|| ===================================================
 || Enter command: || [Command entered:  clear]
 || Address book has been cleared!
 || ===================================================
